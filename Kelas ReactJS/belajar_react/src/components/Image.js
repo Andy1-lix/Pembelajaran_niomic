@@ -5,10 +5,7 @@ class Image extends Component {
         return (
             <div>
                 <img 
-                src='https://i.pinimg.com/236x/53/d9/fa/53d9fadfdd698f0ade031d5444035c1d.jpg' 
-                alt='gambar-makanan'
-                width='300'
-                height='200'></img>
+                src={this.props.linkgambar} alt='gambar-makanan' width='300'height='200' style={{borderStyle:"inset", color:"black"}}></img>
             </div>
         );
     }
