@@ -1,11 +1,7 @@
-  /* Ini adalah style untuk body */
-  body {
-    background-color: #f7f7f7;
+.judul {
+    font-size: 30px;
+    text-decoration: underline;
 }
-h1,h2 {
-    color: green;
-}
-p {
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-size: 18px;
+.paragraf_pertama {
+    color: orange;
 }
