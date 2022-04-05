@@ -1,7 +1,12 @@
-.judul {
+/* #judul {
     font-size: 30px;
     text-decoration: underline;
 }
-.paragraf_pertama {
-    color: orange;
+.paragraf_pertama,.paragraf_kedua {
+  color: aqua;
+
+} */
+
+h2.judul {
+    color: silver;
 }
