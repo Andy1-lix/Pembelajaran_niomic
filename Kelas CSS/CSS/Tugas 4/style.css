@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+}
+
+.judul {
+text-align: center;
+}
+
+input {
+    text-align: justify !important;
+    padding-top: 5px;
+}
+
+button  {
+    font-size: 29px;
+    color: rgb(148, 148, 26) !important;
+}
