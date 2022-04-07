@@ -1,0 +1,22 @@
+p {
+    text-align: justify;
+}
+
+.p_pertama {
+    background-color: orange;
+}
+
+.p_kedua {
+    background-color: blue;
+    color: white;
+}
+
+.p_ketiga {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.p_empat {
+    background-color: gray;
+    font-weight: 900;
+
+}
