@@ -11,9 +11,11 @@ h2 {
     color: rgb(126, 212, 64);
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    font-variant: small-caps;
 }
 
 p {
-    text-decoration: none;
-
+   text-transform: none;
+   font-variant: normal;
+   
 }
