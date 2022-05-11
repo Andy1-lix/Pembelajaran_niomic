@@ -1,21 +1,9 @@
-/* #judul {
-    font-size: 30px;
-    text-decoration: underline;
-}
-.paragraf_pertama,.paragraf_kedua {
-  color: aqua;
-
-} */
-
-h2 {
-    color: rgb(126, 212, 64);
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
-    font-variant: small-caps;
+h1{
+  font-variant: small-caps;
 }
 
-p {
-   text-transform: none;
-   font-variant: normal;
-   
+p{
+  font-variant: normal;
+  text-transform: capitalize;
+  text-align: justify;
 }
