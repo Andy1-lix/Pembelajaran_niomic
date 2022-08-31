@@ -1,0 +1,9 @@
+p {
+    background-color: aqua;
+    width: 350px;
+    overflow: scroll;
+}
+
+.satu {
+    box-sizing: border-box;
+}
