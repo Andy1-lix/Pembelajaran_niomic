@@ -6,4 +6,20 @@ p {
 
 .satu {
     box-sizing: border-box;
+    border-style: dotted;
+    border-color: red;
+    border-width: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+.dua {
+    box-sizing: border-box;
+    border-style: groove;
+    border-color: rgb(4, 243, 4);
+}
+.tiga {
+    box-sizing: border-box;
+    border-style: dashed;
+    border-color: rgb(92, 4, 243);
+    border-width: 20px;
 }
