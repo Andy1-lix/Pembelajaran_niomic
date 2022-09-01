@@ -1,0 +1,29 @@
+body {
+    /* background-image: url("https://i.pinimg.com/564x/af/c0/d8/afc0d84068524ecc5224aa18e484f950.jpg"); */
+    background-repeat: repeat;
+}
+div {
+    box-sizing: border-box;
+    border: 1px solid black;
+    overflow: scroll;
+    background-image: url(avocado.jpg);
+    width: 50%;
+    float: left;
+}
+
+.satu , .dua ,  .tiga {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.satu {
+    color: #3300ff;
+}
+.dua {
+    color: #00ff3c;
+}
+
+.tiga {
+    color: #ff0000;
+}
