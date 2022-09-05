@@ -1,0 +1,16 @@
+body {
+background-color: antiquewhite;
+}
+
+.content {
+    width: 800px;
+    height: 700px;
+    background-color:white;
+    margin-right: 5px ;
+    position: relative;
+    float: right;
+    text-align: right;
+    overflow:scroll;
+    box-sizing: border-box;
+    z-index: 1;
+}
